@@ -1,8 +1,10 @@
-# Bike Club - CiviCRM Recipe
+# Bike Club - CiviCRM Integration
 
 ## Overview
 
-This recipe installs CiviCRM and related Drupal modules.
+This recipe installs Drupal modules that integrate with CiviCRM.
+
+Drupal and CiviCRM must be installed first. CiviCRM cannot be installed properly with a recipe, see the 
 
 ## Drupal Modules Installed to Work with CiviCRM
 
