@@ -4,7 +4,9 @@
 
 This recipe installs Drupal modules that integrate with CiviCRM.
 
-Drupal and CiviCRM must be installed first. CiviCRM cannot be installed properly with a recipe, see the 
+Drupal and CiviCRM must be installed first.
+To install a new Drupal site with CiviCRM in your local development environment, use the scripts located in **[bikeclub/bikeclub-scripts](https://github.com/NCole29/bikeclub-scripts)**. The CiviCRM install scripts follows the [CiviCRM Installation Guide](https://docs.civicrm.org/installation/en/latest/drupal/).
+
 
 ## Drupal Modules Installed to Work with CiviCRM
 
